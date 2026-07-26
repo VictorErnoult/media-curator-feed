@@ -6,6 +6,13 @@
     <description>Weekly reading picks, as short recaps to skim and dive into.</description>
     <language>en</language>
     <item>
+      <title>Incendie a l'Argentiere-la-Bessee : les six jours d'inaction qui interrogent, la colere qui monte</title>
+      <link>https://alpinemag.fr/incendie-argentiere-bessee-six-jours-interrogent-colere-monte/</link>
+      <guid isPermaLink="false">https://alpinemag.fr/incendie-argentiere-bessee-six-jours-interrogent-colere-monte/</guid>
+      <description>Lightning struck, smoke was visible for days, nobody intervened until day six, and 500 hectares burned. Local reporting with residents and mountain professionals on the record. Published today; partly paywalled. - ~5 min read (estimated)</description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Project Pilot: Can AI control a drone?</title>
       <link>https://www.anthropic.com/research/project-pilot</link>
       <guid isPermaLink="false">https://www.anthropic.com/research/project-pilot</guid>
@@ -13,11 +20,52 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>La montagne amochee : le modele historique des stations de ski continue d'etre finance</title>
+      <link>https://alpinemag.fr/montagne-amochee-stations-ski-transition-ancien-modele-finance/</link>
+      <guid isPermaLink="false">https://alpinemag.fr/montagne-amochee-stations-ski-transition-ancien-modele-finance/</guid>
+      <description>Fifty years after the model was first exposed, public money still funds cars, real estate and artificial snow. Cites two researchers rather than gesturing at a vibe. - ~10 min read (estimated)</description>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM Evals: Everything You Need to Know</title>
+      <link>https://hamel.dev/blog/posts/evals-faq/</link>
+      <guid isPermaLink="false">https://hamel.dev/blog/posts/evals-faq/</guid>
+      <description>A living FAQ on evals from two people who do it full time. The load-bearing claim: spend thirty minutes hand-reading twenty to fifty outputs before building any eval infrastructure. Long, but organised as a FAQ so it skims by section. - ~35 min read (estimated)</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An off switch for dual-use knowledge in AI models</title>
+      <link>https://www.anthropic.com/research/off-switch-dual-use</link>
+      <guid isPermaLink="false">https://www.anthropic.com/research/off-switch-dual-use</guid>
+      <description>Removing a capability rather than refusing to use it - a different lever than the usual guardrail framing. - ~10 min read (estimated)</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A global workspace in language models</title>
       <link>https://www.anthropic.com/research/global-workspace</link>
       <guid isPermaLink="false">https://www.anthropic.com/research/global-workspace</guid>
       <description>A direct successor to earlier interpretability research on introspection: describes an internal workspace holding thoughts that never reach the model's output. - ~10 min read (estimated)</description>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elevating Execution: Lessons From a 400 TB Migration on an Ambitious Timeline</title>
+      <link>https://www.trmlabs.com/trm-tech-blog/elevating-execution-lessons-from-a-400-tb-migration-on-an-ambitious-timeline</link>
+      <guid isPermaLink="false">https://www.trmlabs.com/trm-tech-blog/elevating-execution-lessons-from-a-400-tb-migration-on-an-ambitious-timeline</guid>
+      <description>A 400TB migration onto Iceberg written up with the failures left in: latency regressions that reached customers before anyone caught them, cutover errors, and an honest note that the tooling could not reason about route-level performance. - ~14 min read (estimated)</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agentic coding and persistent returns to expertise</title>
+      <link>https://www.anthropic.com/research/claude-code-expertise</link>
+      <guid isPermaLink="false">https://www.anthropic.com/research/claude-code-expertise</guid>
+      <description>Whether experience still pays once coding agents do the typing. Measured rather than asserted. - ~10 min read (estimated)</description>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Meteo-Parapente Model</title>
+      <link>https://portal.meteo-parapente.com/about/model/</link>
+      <guid isPermaLink="false">https://portal.meteo-parapente.com/about/model/</guid>
+      <description>How the HREM model behind those forecasts is actually built: 2.5km, convection-resolving, five-day horizon. Evergreen documentation rather than news - read it once and the forecasts read differently afterwards. - ~8 min read (estimated)</description>
     </item>
   </channel>
 </rss>

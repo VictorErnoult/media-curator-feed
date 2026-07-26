@@ -6,6 +6,24 @@
     <description>Weekly podcast picks, chosen against a taste profile that learns.</description>
     <language>en</language>
     <item>
+      <title>Episode 100 Part 1 - Rogue and its Predecessors</title>
+      <link>https://podcasts.apple.com/us/podcast/episode-100-part-1-rogue-and-its-predecessors/id1650474911?i=1000777812548&amp;uo=4</link>
+      <guid isPermaLink="false">https://grogpod.s3.us-west-2.amazonaws.com/EP100pt1-rogue-and-its-predecessors.mp3</guid>
+      <description>The genre's origin story traced back past Rogue itself, for a hundredth episode. Two hours of history rather than a design tutorial - a long background listen.</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://grogpod.s3.us-west-2.amazonaws.com/EP100pt1-rogue-and-its-predecessors.mp3" type="audio/mpeg"/>
+      <itunes:duration>01:59:38</itunes:duration>
+    </item>
+    <item>
+      <title>Key Change: Questlove on Prince</title>
+      <link>https://podcasts.apple.com/us/podcast/key-change-questlove-on-prince/id788236947?i=1000776912374&amp;uo=4</link>
+      <guid isPermaLink="false">https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/6bcfc20c-2406-4963-912a-fe2d13d6f43f/KeyChange15-Questlove-Part1.mp3</guid>
+      <description>Questlove taking apart what made Prince's records work, on a show built entirely around dismantling one song at a time. Twenty-five minutes, no prior knowledge needed.</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/6bcfc20c-2406-4963-912a-fe2d13d6f43f/KeyChange15-Questlove-Part1.mp3" type="audio/mpeg"/>
+      <itunes:duration>00:25:48</itunes:duration>
+    </item>
+    <item>
       <title>Building the Context Flywheel for AI Data Agents</title>
       <link>https://www.dataengineeringpodcast.com/episodepage/building-the-context-flywheel-for-ai-data-agents</link>
       <guid isPermaLink="false">https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6391889630903766738d7df31f-c5f6-48b1-8144-c4225fecd8aav1.mp3</guid>
@@ -13,6 +31,33 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6391889630903766738d7df31f-c5f6-48b1-8144-c4225fecd8aav1.mp3" type="audio/mpeg"/>
       <itunes:duration>01:00:34</itunes:duration>
+    </item>
+    <item>
+      <title>Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks</title>
+      <link>https://podcasts.apple.com/us/podcast/why-the-frontier-ecosystem-must-be-open-matei-zaharia/id1674008350?i=1000774083394&amp;uo=4</link>
+      <guid isPermaLink="false">https://api.substack.com/feed/podcast/203293676/dd012c693ce8a0df476abdb30707f110.mp3</guid>
+      <description>Spark's creator and a Databricks co-founder arguing the frontier stack has to stay open. A platform-level argument, not a product pitch.</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.substack.com/feed/podcast/203293676/dd012c693ce8a0df476abdb30707f110.mp3" type="audio/mpeg"/>
+      <itunes:duration>01:08:52</itunes:duration>
+    </item>
+    <item>
+      <title>Holding Kafka Right: Product-Friendly Streaming with TypeStream</title>
+      <link>https://podcasts.apple.com/us/podcast/holding-kafka-right-product-friendly-streaming-with/id1193040557?i=1000773338859&amp;uo=4</link>
+      <guid isPermaLink="false">https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6391733588741892878ecda746-bff7-4c7e-b384-3fc00c01f44av1.mp3</guid>
+      <description>Streaming treated as a product-design problem rather than an ops one. The shortest podcast in this batch and the easiest to finish in one sitting.</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6391733588741892878ecda746-bff7-4c7e-b384-3fc00c01f44av1.mp3" type="audio/mpeg"/>
+      <itunes:duration>00:49:51</itunes:duration>
+    </item>
+    <item>
+      <title>LAS48-Nouveaux outils : l'exposimètre et Flysafer</title>
+      <link>https://podcasts.apple.com/fr/podcast/las48-nouveaux-outils-lexposim%C3%A8tre-et-flysafer/id1545780485?i=1000773296797&amp;uo=4</link>
+      <guid isPermaLink="false">https://audio.ausha.co/bWl7vU59JMxk.mp3</guid>
+      <description>French free-flight safety show digging into two new instruments and what they actually change in the air. Technical, and squarely on the flying side rather than the gear-review side.</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://audio.ausha.co/bWl7vU59JMxk.mp3" type="audio/mpeg"/>
+      <itunes:duration>00:59:49</itunes:duration>
     </item>
     <item>
       <title>Rift Wizard 3: Interview with Developer Dylan White</title>
@@ -24,6 +69,15 @@
       <itunes:duration>01:34:37</itunes:duration>
     </item>
     <item>
+      <title>Agentic Engineering and the Lost Art of Verification</title>
+      <link>https://podcasts.apple.com/us/podcast/agentic-engineering-and-the-lost-art-of-verification/id1610318868?i=1000767348060&amp;uo=4</link>
+      <guid isPermaLink="false">https://api.substack.com/feed/podcast/197300220/95a677f281de2bcc61b422fca5b2d2fd.mp3</guid>
+      <description>Verification as the neglected half of agentic engineering: how you know an agent did the right thing, not merely that it produced output. Long, and an interview, so it survives background listening.</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://api.substack.com/feed/podcast/197300220/95a677f281de2bcc61b422fca5b2d2fd.mp3" type="audio/mpeg"/>
+      <itunes:duration>01:32:26</itunes:duration>
+    </item>
+    <item>
       <title>Pierre Mazeaud, un alpiniste sur l'île de l'enfer</title>
       <link>https://www.ici.fr/emissions/la-folie-des-hauteurs/comment-trois-alpinistes-francais-un-peu-fous-decident-d-escalader-un-volcan-en-eruption-au-large-de-l-islande-5366028</link>
       <guid isPermaLink="false">https://proxycast.radiofrance.fr/8dda6b2a-d0e9-43ea-88e8-99c1b650edc7/21425-08.04.2026-ITEMA_24464321-2026B40805E0004-ITE_00158301_RSCE-21-f6079a996dadd9ba82355beae39bbb79.mp3</guid>
@@ -31,6 +85,15 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://proxycast.radiofrance.fr/8dda6b2a-d0e9-43ea-88e8-99c1b650edc7/21425-08.04.2026-ITEMA_24464321-2026B40805E0004-ITE_00158301_RSCE-21-f6079a996dadd9ba82355beae39bbb79.mp3" type="audio/mpeg"/>
       <itunes:duration>00:27:32</itunes:duration>
+    </item>
+    <item>
+      <title>Percera-t-on un jour le mystère des trois morts survenues au sommet du glacier de la Vallée Blanche ?</title>
+      <link>https://proxycast.radiofrance.fr/d2e85b5d-e7da-4869-828e-6c7a79d4c01e/21425-11.03.2026-ITEMA_24434952-2026B40805E0003-ITE_00157686_RSCE-21-4fe2288765ecd078f593496e338b1e28.mp3</link>
+      <guid isPermaLink="false">https://proxycast.radiofrance.fr/d2e85b5d-e7da-4869-828e-6c7a79d4c01e/21425-11.03.2026-ITEMA_24434952-2026B40805E0003-ITE_00157686_RSCE-21-4fe2288765ecd078f593496e338b1e28.mp3</guid>
+      <description>An unsolved mountain mystery, reported rather than dramatised: the investigation register applied to a glacier. Twenty-six minutes, in French.</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://proxycast.radiofrance.fr/d2e85b5d-e7da-4869-828e-6c7a79d4c01e/21425-11.03.2026-ITEMA_24434952-2026B40805E0003-ITE_00157686_RSCE-21-4fe2288765ecd078f593496e338b1e28.mp3" type="audio/mpeg"/>
+      <itunes:duration>00:26:09</itunes:duration>
     </item>
   </channel>
 </rss>
