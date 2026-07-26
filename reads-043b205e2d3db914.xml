@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>media-curator - reads</title>
+    <link>https://victorernoult.github.io/media-curator-feed/reads-043b205e2d3db914.xml</link>
+    <description>Weekly reading picks, as short recaps to skim and dive into.</description>
+    <language>en</language>
+    <item>
+      <title>Project Pilot: Can AI control a drone?</title>
+      <link>https://www.anthropic.com/research/project-pilot</link>
+      <guid isPermaLink="false">https://www.anthropic.com/research/project-pilot</guid>
+      <description>Published failure data rather than a capability victory lap: the frontier model beats baseline on four of five sub-tasks and still flies into a wall it mistook for a doorway. - ~8 min read (estimated)</description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A global workspace in language models</title>
+      <link>https://www.anthropic.com/research/global-workspace</link>
+      <guid isPermaLink="false">https://www.anthropic.com/research/global-workspace</guid>
+      <description>A direct successor to earlier interpretability research on introspection: describes an internal workspace holding thoughts that never reach the model's output. - ~10 min read (estimated)</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

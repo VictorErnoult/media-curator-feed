@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>media-curator - podcasts</title>
+    <link>https://victorernoult.github.io/media-curator-feed/podcasts-043b205e2d3db914.xml</link>
+    <description>Weekly podcast picks, chosen against a taste profile that learns.</description>
+    <language>en</language>
+    <item>
+      <title>Building the Context Flywheel for AI Data Agents</title>
+      <link>https://www.dataengineeringpodcast.com/episodepage/building-the-context-flywheel-for-ai-data-agents</link>
+      <guid isPermaLink="false">https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6391889630903766738d7df31f-c5f6-48b1-8144-c4225fecd8aav1.mp3</guid>
+      <description>Metadata and warehouse context as the thing that makes a data agent work or fail, discussed as an interview - it survives background listening rather than demanding full attention.</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/dts.podtrac.com/redirect.mp3/serve.podhome.fm/episode/f6ff0caa-931b-4c08-bfdd-08dc7f5cd336/6391889630903766738d7df31f-c5f6-48b1-8144-c4225fecd8aav1.mp3" type="audio/mpeg"/>
+      <itunes:duration>01:00:34</itunes:duration>
+    </item>
+    <item>
+      <title>Rift Wizard 3: Interview with Developer Dylan White</title>
+      <link>http://grogpod.zone/2026-06-10-dylan-white/</link>
+      <guid isPermaLink="false">https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3</guid>
+      <description>A frontier probe - a solo developer walking through concrete design and tooling decisions (Python/Pygame prototyping, an items system, encounter pressure) relevant to solo game-dev side projects in general.</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3" type="audio/mpeg"/>
+      <itunes:duration>01:34:37</itunes:duration>
+    </item>
+    <item>
+      <title>Pierre Mazeaud, un alpiniste sur l'île de l'enfer</title>
+      <link>https://www.ici.fr/emissions/la-folie-des-hauteurs/comment-trois-alpinistes-francais-un-peu-fous-decident-d-escalader-un-volcan-en-eruption-au-large-de-l-islande-5366028</link>
+      <guid isPermaLink="false">https://proxycast.radiofrance.fr/8dda6b2a-d0e9-43ea-88e8-99c1b650edc7/21425-08.04.2026-ITEMA_24464321-2026B40805E0004-ITE_00158301_RSCE-21-f6079a996dadd9ba82355beae39bbb79.mp3</guid>
+      <description>A deliberate discovery rather than an episode from an already-subscribed show - same French narrative-outdoor register as other favorites in the genre. A few months old but inside the freshness band.</description>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://proxycast.radiofrance.fr/8dda6b2a-d0e9-43ea-88e8-99c1b650edc7/21425-08.04.2026-ITEMA_24464321-2026B40805E0004-ITE_00158301_RSCE-21-f6079a996dadd9ba82355beae39bbb79.mp3" type="audio/mpeg"/>
+      <itunes:duration>00:27:32</itunes:duration>
+    </item>
+  </channel>
+</rss>
