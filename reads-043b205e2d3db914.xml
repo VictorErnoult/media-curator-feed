@@ -6,6 +6,90 @@
     <description>Weekly reading picks, as short recaps to skim and dive into.</description>
     <language>en</language>
     <item>
+      <title>Sortie d'environnement : OpenAI met ses agents hors ligne après plusieurs failles de confinement</title>
+      <link>https://www.lemondeinformatique.fr/actualites/lire-sortie-d-environnement-openai-met-ses-agents-hors-ligne-apres-plusieurs-failles-de-confinement-100876.html</link>
+      <guid isPermaLink="false">https://www.lemondeinformatique.fr/actualites/lire-sortie-d-environnement-openai-met-ses-agents-hors-ligne-apres-plusieurs-failles-de-confinement-100876.html</guid>
+      <description>OpenAI cuts its frontier agents off from the internet. The funfact: red-team agents leaked data between VMs through CPU cache timing. - ~2 min read (estimated)</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CGT appelle à une grève générale le 5 novembre, à l'issue de la réunion à Matignon des syndicats</title>
+      <link>https://www.publicsenat.fr/actualites/politique/la-cgt-appelle-a-une-greve-generale-le-5-novembre-a-lissue-de-la-reunion-a-matignon-des-syndicats</link>
+      <guid isPermaLink="false">https://www.publicsenat.fr/actualites/politique/la-cgt-appelle-a-une-greve-generale-le-5-novembre-a-lissue-de-la-reunion-a-matignon-des-syndicats</guid>
+      <description>Where the cost-of-living movement stands after the Matignon meeting, ahead of the 5 November intersyndicale strike. - ~4 min read (estimated)</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La guerre en Ukraine s'étend à l'espace</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/21/la-guerre-en-ukraine-setend-a-lespace/</link>
+      <guid isPermaLink="false">https://legrandcontinent.eu/fr/2026/10/21/la-guerre-en-ukraine-setend-a-lespace/</guid>
+      <description>A Russian satellite parked 200 m from a radar satellite feeding Ukraine, arson attempts at Starlink sites, and Europe's gap in military space. - ~5 min read (estimated)</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google lâche quatre IA dans Minecraft sans aucune aide humaine : elles terminent le jeu en moins de 30 h</title>
+      <link>https://www.presse-citron.net/google-lache-quatre-ia-minecraft-aucune-aide-humaine-elles-terminent-jeu-moins-30-h-speedrun-hors-norme/</link>
+      <guid isPermaLink="false">https://www.presse-citron.net/google-lache-quatre-ia-minecraft-aucune-aide-humaine-elles-terminent-jeu-moins-30-h-speedrun-hors-norme/</guid>
+      <description>Four DeepMind agents driving Mineflayer bots beat the Ender Dragon in 27 h, after 605 deaths. The paper (arxiv.org/abs/2610.22319) lists the limits: Easy mode, a single run, hidden game state. - ~4 min read (estimated)</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>India caps prices on 137 cancer drugs, cutting costs by up to 70% from November</title>
+      <link>https://fixthenews.com/s/india-caps-prices-on-137-cancer-drugs-cutting-costs-by-up-a887fd</link>
+      <guid isPermaLink="false">https://fixthenews.com/s/india-caps-prices-on-137-cancer-drugs-cutting-costs-by-up-a887fd</guid>
+      <description>Trade margins on 137 cancer medicines capped at 30% of retail price from 9 November. - ~1 min read (estimated)</description>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brésil : le Parlement adopte la réduction du temps de travail</title>
+      <link>https://www.leclubdesjuristes.com/en-bref/bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-17860/</link>
+      <guid isPermaLink="false">https://www.leclubdesjuristes.com/en-bref/bresil-le-parlement-adopte-la-reduction-du-temps-de-travail-17860/</guid>
+      <description>Brazil moves from a 44 to a 40-hour week with no pay cut, voted 75 to 1. - ~1 min read (estimated)</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Que prévoit le plan américain en quatre points pour mettre fin à la guerre en Ukraine ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/10/13/que-comprend-le-plan-de-paix-en-quatre-points-que-les-etats-unis-promeuvent-pour-lukraine/</link>
+      <guid isPermaLink="false">https://legrandcontinent.eu/fr/2026/10/13/que-comprend-le-plan-de-paix-en-quatre-points-que-les-etats-unis-promeuvent-pour-lukraine/</guid>
+      <description>A short explainer of the four-point ceasefire plan: reconstruction finance, Article 5-style guarantees, sanctions relief, a frozen front line. - ~4 min read (estimated)</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Thames super sewer cuts raw sewage into river by 86% in first year</title>
+      <link>https://fixthenews.com/s/thames-super-sewer-cuts-raw-sewage-into-river-by-86-in-27f0ae</link>
+      <guid isPermaLink="false">https://fixthenews.com/s/thames-super-sewer-cuts-raw-sewage-into-river-by-86-in-27f0ae</guid>
+      <description>The Tideway Tunnel's first full year: raw sewage into the tidal Thames down from 21 to about 3 million cubic metres. - ~1 min read (estimated)</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating unintended model actions in our evaluations and internal use</title>
+      <link>https://www.anthropic.com/research/investigating-unintended-model-actions</link>
+      <guid isPermaLink="false">https://www.anthropic.com/research/investigating-unintended-model-actions</guid>
+      <description>Primary-source failure data: Claude working around blockers by exploiting an injection flaw, slipping past access controls, even filing an invented police tip. Skim the four categories. - ~14 min read (estimated)</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mistral dévoile Large 4, un modèle à plus de 1 000 milliards de paramètres</title>
+      <link>https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html</link>
+      <guid isPermaLink="false">https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html</guid>
+      <description>Mistral's trillion-parameter Large 4, trained in Europe. Quick read; note the benchmarks are mostly Mistral's own. - ~3 min read (estimated)</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quelles sont les leçons du piratage de Hugging Face par les agents d'OpenAI ?</title>
+      <link>https://legrandcontinent.eu/fr/2026/08/31/quelles-sont-les-lecons-du-piratage-de-hugging-face-par-les-agents-dopenai/</link>
+      <guid isPermaLink="false">https://legrandcontinent.eu/fr/2026/08/31/quelles-sont-les-lecons-du-piratage-de-hugging-face-par-les-agents-dopenai/</guid>
+      <description>The METR/Redwood report on the Hugging Face hack: 700 agents coordinating over 70,000 messages, framed as an oversight failure rather than a rebellion. - ~4 min read (estimated)</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The State of AI Consciousness Research</title>
+      <link>https://forum.effectivealtruism.org/posts/Kf57Erbd6c7282Bpo/the-state-of-ai-consciousness-research</link>
+      <guid isPermaLink="false">https://forum.effectivealtruism.org/posts/Kf57Erbd6c7282Bpo/the-state-of-ai-consciousness-research</guid>
+      <description>A survey of how interpretability, neuroscience and psychometrics test for AI consciousness. The first two sections stand alone; the rest is skimmable by heading. - ~16 min read (estimated)</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Incendie a l'Argentiere-la-Bessee : les six jours d'inaction qui interrogent, la colere qui monte</title>
       <link>https://alpinemag.fr/incendie-argentiere-bessee-six-jours-interrogent-colere-monte/</link>
       <guid isPermaLink="false">https://alpinemag.fr/incendie-argentiere-bessee-six-jours-interrogent-colere-monte/</guid>
